@@ -1,0 +1,40 @@
+
+
+.item ,.item-project{
+    height: 300px;
+    width: 300px;
+    margin: 25px;
+    display: flex; 
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    border: 2px solid gray;
+   border-radius: 10px 10px;
+   .web-dev{
+       display: none;
+   }
+  
+
+}
+.item:hover{
+    box-shadow: 10px 10px 10px gray;
+}
+    .item-project{
+        height: 500px;
+        width: 500px;
+    }
+    .item:hover{
+    display:block;
+    img{
+        margin-top: 10px;
+        transform: rotate(360deg);
+        transition: 1s;
+        translate: translate(5px,5px);
+    
+    }
+    .web-dev{
+        margin-top: 30px;
+        display:block;
+       
+    }
+    } 

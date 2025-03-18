@@ -1,0 +1,25 @@
+
+a.navbar-brand {
+    color: gray !important;
+}
+.navbar {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    z-index: 5 !important;
+    background-color: black !important; 
+}
+.navbar-nav li a {
+    font-weight: bold !important;
+    color: white !important;
+    text-decoration: none !important;
+}
+
+
+.navbar-nav li a:hover {
+    color: goldenrod !important;
+}
+.Section1{
+    background-image: url('../assets/website-647013_1280.jpg') !important;
+}

@@ -1,0 +1,30 @@
+.intro1 {
+    background-image: url('../assets/website-647013_1280.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 100vw; */
+    height: 100vh;
+    position: relative;
+}
+.intro {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    color: rgb(75, 143, 98);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.intro button a{
+    border: none;
+    font-size:15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10%;
+
+}
+.intro button a:hover{
+
+    background-color: hotpink;
+}
