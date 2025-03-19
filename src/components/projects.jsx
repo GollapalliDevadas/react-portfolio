@@ -1,7 +1,7 @@
 
 import photo from '../assets/Screenshot 2025-03-15 123516.png';
-import photo1 from '../assets/screenshot 2025-03-15 193525.png';
-import photo2 from '../assets/screenshot 2025-03-15 200043.png';
+import photo1 from '../assets/Screenshot 2025-03-15 193525.png';
+import photo2 from '../assets/Screenshot 2025-03-15 200043.png';
 import './project.css';
 
 export function Project()
